@@ -1,4 +1,3 @@
-
 spring:
   datasource:
     url: jdbc:mariadb://${prodDbIp}:3306/acc_app_2024_04__prod?useUnicode=true&characterEncoding=utf8&autoReconnect=true&serverTimezone=Asia/Seoul
