@@ -11,3 +11,7 @@ USE acc_app_2024_04__dev;
 
 SELECT *
 FROM `member`;
+
+SELECT *
+FROM `song`;
+
